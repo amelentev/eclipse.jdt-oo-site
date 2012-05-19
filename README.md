@@ -1,4 +1,6 @@
 eclipse.jdt-oo-site
 ===================
 
-update site for Operator Overloading plugin for Eclipse JDT
+Update site for Operator Overloading plugin for Eclipse JDT:
+
+	https://raw.github.com/amelentev/eclipse.jdt-oo-site/master/
