@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Java Operator Overloading" url="https://raw.github.com/amelentev/eclipse.jdt-oo-site/master/">
+   <description name="Java Operator Overloading" url="http://amelentev.github.com/eclipse.jdt-oo-site/">
       Java Operator Overloading support for Eclipse IDE
    </description>
-   <feature url="features/eclipse.jdt_oo_0.1.0.201205211955.jar" id="eclipse.jdt_oo" version="0.1.0.201205211955">
-      <category name="java"/>
+   <feature url="features/eclipse.jdt_oo_0.1.0.201208041239.jar" id="eclipse.jdt_oo" version="0.1.0.201208041239">
+      <category name="Java"/>
    </feature>
-   <category-def name="java" label="Java"/>
+   <category-def name="Java" label="Java">
+      <description>
+         Java
+      </description>
+   </category-def>
 </site>
