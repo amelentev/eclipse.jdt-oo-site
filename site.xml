@@ -3,7 +3,7 @@
    <description name="Java Operator Overloading" url="http://amelentev.github.com/eclipse.jdt-oo-site/">
       Java Operator Overloading support for Eclipse IDE
    </description>
-   <feature url="features/eclipse.jdt_oo_0.1.0.201208041239.jar" id="eclipse.jdt_oo" version="0.1.0.201208041239">
+   <feature url="features/eclipse.jdt_oo_0.1.0.201208041514.jar" id="eclipse.jdt_oo" version="0.1.0.201208041514">
       <category name="Java"/>
    </feature>
    <category-def name="Java" label="Java">
