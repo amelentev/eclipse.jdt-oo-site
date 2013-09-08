@@ -1,2 +1,4 @@
+FILES=artifacts.jar content.jar  features/ plugins/ 
 clean:
-	rm artifacts.jar content.jar  features/ plugins/ -Rf
+	rm -Rf $(FILES)
+	git checkout $(FILES)
