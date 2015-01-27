@@ -15,6 +15,9 @@
    <feature url="features/eclipse.jdt_oo_0.4.0.201401112340.jar" id="eclipse.jdt_oo" version="0.4.0.201401112340">
       <category name="Java"/>
    </feature>
+   <feature url="features/eclipse.jdt_oo_0.5.0.201501270224.jar" id="eclipse.jdt_oo" version="0.5.0.201501270224">
+      <category name="Java"/>
+   </feature>
    <category-def name="Java" label="Java">
       <description>
          Java
